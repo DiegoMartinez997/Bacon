@@ -1,0 +1,32 @@
+/*****************Tag selector*******************/
+body{
+
+  background-image: url(https://media.tenor.com/images/8b77a486a0713a36e0b9a9d5213370a5/tenor.gif);
+  background-color: orange;
+  background-size: 80px
+   }
+h1 {
+  align-self: center;
+  background-image: url(https://media.tenor.com/images/02748cfa4f77b694b9e291a04cb6e48d/tenor.gif);
+  display: flex;
+  color: pink;
+  font-size: 100px;
+  font-family: "arial narrow";
+
+
+}
+img {
+  background-color: red;
+}
+
+/****************class slector*************/
+
+.Bacon {
+  background-color: green;
+
+}
+
+.broccoli {
+  background-color: lightblue;
+}
+/****************id slector*************/
